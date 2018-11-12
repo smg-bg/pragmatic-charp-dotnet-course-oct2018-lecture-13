@@ -6,7 +6,9 @@ namespace CarGarage
     {
         static void Main(string[] args)
         {
+            CarGarage carGarage = new CarGarage();
 
+            
             Console.WriteLine("Press any key to continue...");
             Console.ReadKey();
         }
